@@ -1,0 +1,11 @@
+10
+9008 keys 2 1 1 8 1
+2573 corben 2 1 9 16 1
+1433 vocals 2 1 17 24 1
+3558 cajanDrum 2 1 25 32 1
+2338 bailey 2 1 33 40 1
+9910 banner 2 1 41 48 1
+9152 screenTop 2 1 49 56 1
+3711 screenLeft 2 1 57 64 1
+5541 screenRight 2 1 65 72 1
+5472 corbenAccent 2 1 73 80 1
